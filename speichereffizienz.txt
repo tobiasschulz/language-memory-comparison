@@ -1,0 +1,75 @@
+raw size: memory per row: 302 bytes
+   c# objekt (deklarierte attribute): memory start: 17124 KB
+   c# objekt (deklarierte attribute): memory end: 122668 KB
+   c# objekt (deklarierte attribute): memory diff: 105544 KB
+   c# objekt (deklarierte attribute): memory per row: 108 byte
+   c# objekt (anonyme dynamische Klasse): memory diff: 105392 KB
+   c# objekt (anonyme dynamische Klasse): memory per row: 107 byte
+  c# hashmap: memory diff: 397872 KB
+  c# hashmap: memory per row: 407 byte
+  c++ objekt (with char*): memory start: 397 KB
+  c++ objekt (with char*): memory end: 115935 KB
+  c++ objekt (with char*): memory diff: 115538 KB
+  c++ objekt (with char*): memory per row: 118 bytes
+  c++ objekt (with string): memory start: 371 KB
+  c++ objekt (with string): memory end: 151067 KB
+  c++ objekt (with string): memory diff: 150696 KB
+  c++ objekt (with string): memory per row: 154 bytes
+  c++ obj (manual malloc): memory diff: 355468 KB
+  c++ obj (manual malloc): memory per row: 364 bytes
+ c++ hashmap: memory start: 383 KB
+ c++ hashmap: memory end: 307337 KB
+ c++ hashmap: memory diff: 306954 KB
+ c++ hashmap: memory per row: 314.321 bytes
+ java objekt: memory diff: 184358 KB
+ java objekt: memory per row: 188bytes
+java hashmap: memory diff: 543813 KB
+java hashmap: memory per row: 556bytes
+  php 5.6 objekt (deklarierte attribute): memory start: 229 KB
+  php 5.6 objekt (deklarierte attribute): memory end: 652033 KB
+  php 5.6 objekt (deklarierte attribute): memory diff: 651804 KB
+  php 5.6 objekt (deklarierte attribute): memory per row: 667.447432 bytes
+  php 5.6 objekt (nicht deklarierte attribute): memory start: 227 KB
+  php 5.6 objekt (nicht deklarierte attribute): memory end: 1347368 KB
+  php 5.6 objekt (nicht deklarierte attribute): memory diff: 1347141 KB
+  php 5.6 objekt (nicht deklarierte attribute): memory per row: 1379.472392 bytes
+   php 5.6 array: memory start: 225 KB
+   php 5.6 array: memory end: 1235035 KB
+   php 5.6 array: memory diff: 1234809 KB
+   php 5.6 array: memory per row: 1264.445384 bytes
+php 5.6 object (stdclass): memory start: 225 KB
+php 5.6 object (stdclass): memory end: 1347366 KB
+php 5.6 object (stdclass): memory diff: 1347140 KB
+php 5.6 object (stdclass): memory per row: 1379.472344 bytes
+  php 7.0 objekt (deklarierte attribute): memory start: 350 KB
+  php 7.0 objekt (deklarierte attribute): memory end: 197556 KB
+  php 7.0 objekt (deklarierte attribute): memory diff: 197206 KB
+  php 7.0 objekt (deklarierte attribute): memory per row: 201.939048 bytes
+  php 7.0 objekt (nicht deklarierte attribute): memory start: 349 KB
+  php 7.0 objekt (nicht deklarierte attribute): memory end: 447555 KB
+  php 7.0 objekt (nicht deklarierte attribute): memory diff: 447206 KB
+  php 7.0 objekt (nicht deklarierte attribute): memory per row: 457.939048 bytes
+   php 7.0 array: memory start: 348 KB
+   php 7.0 array: memory end: 400308 KB
+   php 7.0 array: memory diff: 399959 KB
+   php 7.0 array: memory per row: 409.558608 bytes
+php 7.0 object (stdclass): memory start: 348 KB
+php 7.0 object (stdclass): memory end: 447554 KB
+php 7.0 object (stdclass): memory diff: 447206 KB
+php 7.0 object (stdclass): memory per row: 457.939048 bytes
+  perl array: memory start: 4060 KB
+  perl array: memory end: 986504 KB
+  perl array: memory diff: 982444 KB
+  perl array: memory per row: 1006.022656 bytes
+python hashm: memory start: 11316 KB
+python hashm: memory end: 1094332 KB
+python hashm: memory diff: 1083016 KB
+python hashm: memory per row: 1109 bytes
+python objek: memory start: 11400 KB
+python objek: memory end: 1166072 KB
+python objek: memory diff: 1154672 KB
+python objek: memory per row: 1182 bytes
+node.js objekt: memory start: 21904 KB
+node.js objekt: memory end: 361628 KB
+node.js objekt: memory diff: 339724 KB
+node.js objekt: memory per row: 347.877376 bytes
